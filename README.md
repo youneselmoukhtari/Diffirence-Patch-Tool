@@ -1,6 +1,6 @@
-# DiffPatchTool
- Diffirence Patch Tool
- Diff Patch Tool  simple binary patch maker tool.
+# Diffirence Patch Tool
+
+ Binary patch maker tool for Tuning files, crash data files, bcm, ezs, and so on.....
  
 Compare two binary files and save the differences between them in new file patch.txt
 
@@ -34,9 +34,6 @@ example:
 <img width="502" alt="DiffPatchTool-screenshoot" src="https://github.com/youneselmoukhtari/Diffirence-Patch-Tool/assets/77995729/d7dfd2a1-ae2a-4935-84e7-78b012ff073d">
 
 
-
-
-https://youtu.be/EpyuF4t5MWk
 
 Microsoft Visual Studio Community 2019
 
