@@ -1,6 +1,6 @@
 # DiffPatchTool
- DiffPatchTool
- DiffPatchTool  simple binary patch maker tool.
+ Diffirence Patch Tool
+ Diff Patch Tool  simple binary patch maker tool.
  
 Compare two binary files and save the differences between them in new file patch.txt
 
@@ -30,7 +30,8 @@ example:
 
 
 
-![alt tag](https://github.com/reproteq/DiffPatchTool/blob/main/DiffPatchTool-screenshoot.png) 
+
+<img width="502" alt="DiffPatchTool-screenshoot" src="https://github.com/youneselmoukhtari/Diffirence-Patch-Tool/assets/77995729/d7dfd2a1-ae2a-4935-84e7-78b012ff073d">
 
 
 
